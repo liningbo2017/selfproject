@@ -1,0 +1,52 @@
+@media only screen and (min-width: 1200px) {
+    .read-g-fixed {
+        max-width: 1200px;
+    }
+}
+
+@media only screen and (min-width: 641px) {
+    .read-sidebar {
+        font-size: 1.4rem;
+    }
+}
+
+.read-main {
+    padding: 20px 0;
+}
+
+.read-title {
+    margin: 10px 0 20px 0;
+}
+
+.read-meta {
+    font-size: 14px;
+    margin: 10px 0 20px 0;
+    color: #222;
+}
+
+.read-meta a {
+    color: #27ae60;
+}
+
+.read-pagination a {
+    font-size: 1.4rem;
+}
+
+.read-team li {
+    padding: 4px;
+}
+
+.read-team img {
+    margin-bottom: 0;
+}
+
+.read-content img,
+.read-team img {
+    max-width: 100%;
+    height: auto;
+}
+
+.read-footer {
+    padding: 10px 0;
+    text-align: center;
+}
