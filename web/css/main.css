@@ -50,3 +50,10 @@
     padding: 10px 0;
     text-align: center;
 }
+
+.bookMore{
+    cursor: pointer;
+}
+.problemMore{
+    cursor: pointer;
+}
